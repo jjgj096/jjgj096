@@ -9,7 +9,6 @@
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
     <a href="https://velog.io/@jjgj0906"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jjgj0906"/>
-    <a href="https://pgmjun.notion.site/pgmjun/33e788d9f4484f3f84701b5ff92b7f1e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br><br>
 <Strong>📧Email</Strong><br>jjgj0906@naver.com<br>
 
