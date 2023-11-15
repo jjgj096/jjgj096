@@ -1,8 +1,3 @@
-<p align="center">
-<Strong>🧑🏻‍🎓</Strong><br>
-안녕하세요! 환영해요😊 <br>
-제 이름은 윤주호이고, FE & PM 을 공부하고 있습니다!<br>
-결과도 중요하지만 과정에서의 배움 또한 중요하다고 생각합니다.
 
 <br>
 <div align=center>
