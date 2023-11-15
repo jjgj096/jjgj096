@@ -1,19 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Juho's%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Nice%20To%20Meet%20You!&descAlignY=51&descAlign=82)
-
-</div>
-
-<br>
-
-<p align="center">
-    <Strong>☁️Portfolio List☁️</Strong><br><br>
-    <a href="https://velog.io/@jjgj0906"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jjgj0906"/>
-<br><br>
-<Strong>📧Email</Strong><br>jjgj0906@naver.com<br>
-
-</p>
-
 <p align="center">
 <Strong>🧑🏻‍🎓</Strong><br>
 안녕하세요! 환영해요😊 <br>
@@ -46,22 +30,3 @@
 	<br>
 </div>
 <br>
-
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://velog.io/@jjgj0906"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jjgj0906"/></a>
-  	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-  <a href="https://www.instagram.com/y_j.hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/y_j.hooo/"/></a>
-</p>
-
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjgj096&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=jjgj096&show_icons=true">
-
-<br>
-	
-<p>🏆 Baekjoon solved rank! 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjgj0906)](https://solved.ac/jjgj0906)
-</div>
